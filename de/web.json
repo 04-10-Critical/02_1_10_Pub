@@ -1,0 +1,16 @@
+{
+  "layout": "Tech-Detail",
+  "section": "web",
+  "kf": "jjjj",
+  "eyebrow": "Passen Sie das Web an",
+  "resources": [
+    {
+      "title": "web.dev gl",
+      "url": "https://web.dev/"
+    },
+    {
+      "title": "Chrome Developer f",
+      "url": "https://developer.chrome.com/"
+    }
+  ]
+}
