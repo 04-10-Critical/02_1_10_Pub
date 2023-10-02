@@ -5,7 +5,6 @@
 			"sections":[
 				{
 					"name": "Kinematics",
-					"kfk": "iiii",
 					"complexity": "average",
 					"interest": "great",
 					"bool": true
