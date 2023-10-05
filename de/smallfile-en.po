@@ -4,7 +4,7 @@ msgstr "Ein Screenshot einer Website, die AMP verwendet."
 
 #: /views/partials/footer.j2:61
 msgid "AMP 2020"
-msgstr "AMP 2020"
+msgstr "AMP 2020 лж"
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
